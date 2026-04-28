@@ -4,7 +4,7 @@ python-dotenv
 pypdf
 bs4
 wikipedia
-langchain_openai
+langchain_groq
 langchain_text_splitters
 Chromadb
 faiss-cpu
